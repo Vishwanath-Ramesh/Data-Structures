@@ -1,1 +1,1 @@
-
+/*Compare each and every element by looping through*/
