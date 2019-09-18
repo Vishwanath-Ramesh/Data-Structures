@@ -1,0 +1,1 @@
+/*Split the array to individual elements and pick the midpoint. Combine the elements based on the ascending order on both left and right side.*/
